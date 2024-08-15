@@ -1,0 +1,7 @@
+print("hello","swati", sep="=")
+print("hello",123,True,"swati",sep="|")
+print("vishal")
+print("hello",123,True,"swati",end="-")
+print("vishal")
+print("hello",end="  ")
+print("swati")

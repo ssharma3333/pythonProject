@@ -1,0 +1,9 @@
+age=45
+print(type(age))
+age="pramod"
+print(age)
+print(type(age))
+long="hello"
+print(long)
+long_var_create_here="hello"
+print(long_var-create_here)
