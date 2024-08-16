@@ -10,3 +10,5 @@ print(sum)
 sum+1
 print(sum)
 
+a,b,c=10,11,12
+print(a,b,c,sep="?")
