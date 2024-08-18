@@ -25,4 +25,4 @@ print(f"div of 2 no is-{div}")
 print("sum of two no is", (sum))
 print("sum of two no is", (num1*num2))
 
-print(f"sum (num1 + num2): {sum}")
+print(f"sum (num1 + num2) {sum}")
